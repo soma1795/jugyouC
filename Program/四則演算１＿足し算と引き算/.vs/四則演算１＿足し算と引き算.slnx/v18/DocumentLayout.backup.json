@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NodaSouma\\Desktop\\Program\\\u56DB\u5247\u6F14\u7B97\uFF11\uFF3F\u8DB3\u3057\u7B97\u3068\u5F15\u304D\u7B97\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A972789C-F99C-440A-911C-5C438D2240EA}|\u56DB\u5247\u6F14\u7B97\uFF11\uFF3F\u8DB3\u3057\u7B97\u3068\u5F15\u304D\u7B97.vcxproj|C:\\Users\\NodaSouma\\Desktop\\Program\\\u56DB\u5247\u6F14\u7B97\uFF11\uFF3F\u8DB3\u3057\u7B97\u3068\u5F15\u304D\u7B97\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A972789C-F99C-440A-911C-5C438D2240EA}|\u56DB\u5247\u6F14\u7B97\uFF11\uFF3F\u8DB3\u3057\u7B97\u3068\u5F15\u304D\u7B97.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\NodaSouma\\Desktop\\Program\\\u56DB\u5247\u6F14\u7B97\uFF11\uFF3F\u8DB3\u3057\u7B97\u3068\u5F15\u304D\u7B97\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\NodaSouma\\Desktop\\Program\\\u56DB\u5247\u6F14\u7B97\uFF11\uFF3F\u8DB3\u3057\u7B97\u3068\u5F15\u304D\u7B97\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-04-21T07:25:00.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
