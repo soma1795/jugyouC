@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DxLib_kirby.vcxproj" Id="c763c314-2fee-4249-a50b-ebf6665726ec" />
+</Solution>
